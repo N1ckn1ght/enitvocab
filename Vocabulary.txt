@@ -1,118 +1,118 @@
 --- These are most frequently referred computer parts (and other physical objects) ---
 
-блок питания					power supply unit
-видеокарта					graphics card, video card
-гарнитура					headset
-графический процессор				GPU (Graphics Processing Unit)
-жёсткий диск					HDD, hard (magnetic) disk drive
-звуковая карта					sound card, audio card
-клавиатура					keyboard
-компьютерная перифирия				peripherals
+Р±Р»РѕРє РїРёС‚Р°РЅРёСЏ					power supply unit
+РІРёРґРµРѕРєР°СЂС‚Р°					graphics card, video card
+РіР°СЂРЅРёС‚СѓСЂР°					headset
+РіСЂР°С„РёС‡РµСЃРєРёР№ РїСЂРѕС†РµСЃСЃРѕСЂ				GPU (Graphics Processing Unit)
+Р¶С‘СЃС‚РєРёР№ РґРёСЃРє					HDD, hard (magnetic) disk drive
+Р·РІСѓРєРѕРІР°СЏ РєР°СЂС‚Р°					sound card, audio card
+РєР»Р°РІРёР°С‚СѓСЂР°					keyboard
+РєРѕРјРїСЊСЋС‚РµСЂРЅР°СЏ РїРµСЂРёС„РёСЂРёСЏ				peripherals
 	/ external devices like mouse, keyboard, etc.
-корпус компьютера				computer case; system unit, if not empty
-материнская плата				motherboard
-монитор						monitor
-мышь						mouse
-наушники					headphones
-ноутбук						laptop
-оперативная память				RAM (Random-Access Memory)
-процессор					CPU (Central Processing Unit), processor
-твердотельный накопитель			SSD, solid-state drive
+РєРѕСЂРїСѓСЃ РєРѕРјРїСЊСЋС‚РµСЂР°				computer case; system unit, if not empty
+РјР°С‚РµСЂРёРЅСЃРєР°СЏ РїР»Р°С‚Р°				motherboard
+РјРѕРЅРёС‚РѕСЂ						monitor
+РјС‹С€СЊ						mouse
+РЅР°СѓС€РЅРёРєРё					headphones
+РЅРѕСѓС‚Р±СѓРє						laptop
+РѕРїРµСЂР°С‚РёРІРЅР°СЏ РїР°РјСЏС‚СЊ				RAM (Random-Access Memory)
+РїСЂРѕС†РµСЃСЃРѕСЂ					CPU (Central Processing Unit), processor
+С‚РІРµСЂРґРѕС‚РµР»СЊРЅС‹Р№ РЅР°РєРѕРїРёС‚РµР»СЊ			SSD, solid-state drive
 	/ to clarify, can be referenced as a next generation of hard disk drives
-флешка						USB flash drive
-ядро						core
+С„Р»РµС€РєР°						USB flash drive
+СЏРґСЂРѕ						core
 
 
 --- These words are kind of common in dialogues about IT stuff ---
 
-брандмауэр (межсетевой экран)			firewall
+Р±СЂР°РЅРґРјР°СѓСЌСЂ (РјРµР¶СЃРµС‚РµРІРѕР№ СЌРєСЂР°РЅ)			firewall
 	/ a network security system that controls incoming and outgoint network traffic
-браузер						browser
-вероятность					probability
-виртуальная частная сеть			virtual private network (VPN)
-вредоносное ПО					malware
-выгрузка (загрузка на сервер)			upload
-данные						data
-дизайн						design
-диспетчер задач					task manager
-документ					document
-доступ						access
-значение					value
-изображение					image, picture
-иконка						icon
-интернет-провайдер				internet service provider (ISP)
-источник					source
-кодировка					encoding
+Р±СЂР°СѓР·РµСЂ						browser
+РІРµСЂРѕСЏС‚РЅРѕСЃС‚СЊ					probability
+РІРёСЂС‚СѓР°Р»СЊРЅР°СЏ С‡Р°СЃС‚РЅР°СЏ СЃРµС‚СЊ			virtual private network (VPN)
+РІСЂРµРґРѕРЅРѕСЃРЅРѕРµ РџРћ					malware
+РІС‹РіСЂСѓР·РєР° (Р·Р°РіСЂСѓР·РєР° РЅР° СЃРµСЂРІРµСЂ)			upload
+РґР°РЅРЅС‹Рµ						data
+РґРёР·Р°Р№РЅ						design
+РґРёСЃРїРµС‚С‡РµСЂ Р·Р°РґР°С‡					task manager
+РґРѕРєСѓРјРµРЅС‚					document
+РґРѕСЃС‚СѓРї						access
+Р·РЅР°С‡РµРЅРёРµ					value
+РёР·РѕР±СЂР°Р¶РµРЅРёРµ					image, picture
+РёРєРѕРЅРєР°						icon
+РёРЅС‚РµСЂРЅРµС‚-РїСЂРѕРІР°Р№РґРµСЂ				internet service provider (ISP)
+РёСЃС‚РѕС‡РЅРёРє					source
+РєРѕРґРёСЂРѕРІРєР°					encoding
 	/ e.g. text file encoding, like ANSI, UTF-8, etc.
-кэш						cache
-навигация					navigation
-намерение					intent
+РєСЌС€						cache
+РЅР°РІРёРіР°С†РёСЏ					navigation
+РЅР°РјРµСЂРµРЅРёРµ					intent
 	/ e.g. "Malware is a program that has a malicious intent"
-настройки, опции				settings
-операционная система				operating system
-панель управления				control panel
-папка						folder
-поколение					generation
-поломка, неисправность, сбой			malfunction
-пользователь					user, client
-право, разрешение				permission
-предварительный просмотр			preview
-приложение					application
-проблема					issue
+РЅР°СЃС‚СЂРѕР№РєРё, РѕРїС†РёРё				settings
+РѕРїРµСЂР°С†РёРѕРЅРЅР°СЏ СЃРёСЃС‚РµРјР°				operating system
+РїР°РЅРµР»СЊ СѓРїСЂР°РІР»РµРЅРёСЏ				control panel
+РїР°РїРєР°						folder
+РїРѕРєРѕР»РµРЅРёРµ					generation
+РїРѕР»РѕРјРєР°, РЅРµРёСЃРїСЂР°РІРЅРѕСЃС‚СЊ, СЃР±РѕР№			malfunction
+РїРѕР»СЊР·РѕРІР°С‚РµР»СЊ					user, client
+РїСЂР°РІРѕ, СЂР°Р·СЂРµС€РµРЅРёРµ				permission
+РїСЂРµРґРІР°СЂРёС‚РµР»СЊРЅС‹Р№ РїСЂРѕСЃРјРѕС‚СЂ			preview
+РїСЂРёР»РѕР¶РµРЅРёРµ					application
+РїСЂРѕР±Р»РµРјР°					issue
 	/ e.g. "it's a client-side issue"
-разработка					development
-ресурс						resource
-сервер						server
-сетевой трафик					network traffic
-сеть						network, web
-скачивание (загрузка к себе)			download
-таблица						spreadsheet
-указатель мыши, стрелка, курсор			cursor
-файл						file
-экран						screen
+СЂР°Р·СЂР°Р±РѕС‚РєР°					development
+СЂРµСЃСѓСЂСЃ						resource
+СЃРµСЂРІРµСЂ						server
+СЃРµС‚РµРІРѕР№ С‚СЂР°С„РёРє					network traffic
+СЃРµС‚СЊ						network, web
+СЃРєР°С‡РёРІР°РЅРёРµ (Р·Р°РіСЂСѓР·РєР° Рє СЃРµР±Рµ)			download
+С‚Р°Р±Р»РёС†Р°						spreadsheet
+СѓРєР°Р·Р°С‚РµР»СЊ РјС‹С€Рё, СЃС‚СЂРµР»РєР°, РєСѓСЂСЃРѕСЂ			cursor
+С„Р°Р№Р»						file
+СЌРєСЂР°РЅ						screen
 
 
 --- These words are most used when there is a program code to discuss ---
 
-алгоритм					algorithm
-библиотека					library
+Р°Р»РіРѕСЂРёС‚Рј					algorithm
+Р±РёР±Р»РёРѕС‚РµРєР°					library
 	/ a collection of prewritten code that can be used
 	/ e.g. a math library
-ввод						input
-включает, содержит в себе			includes, contains
+РІРІРѕРґ						input
+РІРєР»СЋС‡Р°РµС‚, СЃРѕРґРµСЂР¶РёС‚ РІ СЃРµР±Рµ			includes, contains
 	/ example: "to use a library you need to include a library's header file in your source file"
-вывод						output
-вызов, вызвать функцию				function call, to invoke a function
-зависимость					dependence
-заголовок, заголовочный файл			header, header file
-исходный код					source code
-наследование					inheritance
+РІС‹РІРѕРґ						output
+РІС‹Р·РѕРІ, РІС‹Р·РІР°С‚СЊ С„СѓРЅРєС†РёСЋ				function call, to invoke a function
+Р·Р°РІРёСЃРёРјРѕСЃС‚СЊ					dependence
+Р·Р°РіРѕР»РѕРІРѕРє, Р·Р°РіРѕР»РѕРІРѕС‡РЅС‹Р№ С„Р°Р№Р»			header, header file
+РёСЃС…РѕРґРЅС‹Р№ РєРѕРґ					source code
+РЅР°СЃР»РµРґРѕРІР°РЅРёРµ					inheritance
 	/ e.g. "this class inherits another class"
-нейросеть					neural network
-обнаружение					detection
-объект						object
-определение					definition
-отдельный, отличный от				distinct
-ошибка в коде программы				bug (not just an error)
-перебой, прерывание				interruption
-последовательность				sequence
-последующий					subsequent
-распознавание					recognition
-рекурсия					recursion
+РЅРµР№СЂРѕСЃРµС‚СЊ					neural network
+РѕР±РЅР°СЂСѓР¶РµРЅРёРµ					detection
+РѕР±СЉРµРєС‚						object
+РѕРїСЂРµРґРµР»РµРЅРёРµ					definition
+РѕС‚РґРµР»СЊРЅС‹Р№, РѕС‚Р»РёС‡РЅС‹Р№ РѕС‚				distinct
+РѕС€РёР±РєР° РІ РєРѕРґРµ РїСЂРѕРіСЂР°РјРјС‹				bug (not just an error)
+РїРµСЂРµР±РѕР№, РїСЂРµСЂС‹РІР°РЅРёРµ				interruption
+РїРѕСЃР»РµРґРѕРІР°С‚РµР»СЊРЅРѕСЃС‚СЊ				sequence
+РїРѕСЃР»РµРґСѓСЋС‰РёР№					subsequent
+СЂР°СЃРїРѕР·РЅР°РІР°РЅРёРµ					recognition
+СЂРµРєСѓСЂСЃРёСЏ					recursion
 	/ a function with a step that invokes said function (again)
-слой						layer
-сложность					complexity
-сложность по времени				time complexity
+СЃР»РѕР№						layer
+СЃР»РѕР¶РЅРѕСЃС‚СЊ					complexity
+СЃР»РѕР¶РЅРѕСЃС‚СЊ РїРѕ РІСЂРµРјРµРЅРё				time complexity
 	/ it's the amount of time for algorithm to execute
 	/ example: this algorithm has O(n^2) time complexity
-среда, окружение				environment
-структура данных				data structure
-требует						demands, requires
+СЃСЂРµРґР°, РѕРєСЂСѓР¶РµРЅРёРµ				environment
+СЃС‚СЂСѓРєС‚СѓСЂР° РґР°РЅРЅС‹С…				data structure
+С‚СЂРµР±СѓРµС‚						demands, requires
 	/ example: the code above requires a math library
-узел						node
+СѓР·РµР»						node
 	/ a basic unit of a data structure (of any network or graph, for example)
-	/ вершина - vertice, vertex, node
-	/ ребро (графа) - edge
-условие						condition, if statement
-цикл						loop
-	/ вечный цикл - infinite loop
+	/ РІРµСЂС€РёРЅР° - vertice, vertex, node
+	/ СЂРµР±СЂРѕ (РіСЂР°С„Р°) - edge
+СѓСЃР»РѕРІРёРµ						condition, if statement
+С†РёРєР»						loop
+	/ РІРµС‡РЅС‹Р№ С†РёРєР» - infinite loop
