@@ -1,0 +1,118 @@
+--- These are most frequently referred computer parts (and other physical objects) ---
+
+блок питания					power supply unit
+видеокарта					graphics card, video card
+гарнитура					headset
+графический процессор				GPU (Graphics Processing Unit)
+жёсткий диск					HDD, hard (magnetic) disk drive
+звуковая карта					sound card, audio card
+клавиатура					keyboard
+компьютерная перифирия				peripherals
+	/ external devices like mouse, keyboard, etc.
+корпус компьютера				computer case; system unit, if not empty
+материнская плата				motherboard
+монитор						monitor
+мышь						mouse
+наушники					headphones
+ноутбук						laptop
+оперативная память				RAM (Random-Access Memory)
+процессор					CPU (Central Processing Unit), processor
+твердотельный накопитель			SSD, solid-state drive
+	/ to clarify, can be referenced as a next generation of hard disk drives
+флешка						USB flash drive
+ядро						core
+
+
+--- These words are kind of common in dialogues about IT stuff ---
+
+брандмауэр (межсетевой экран)			firewall
+	/ a network security system that controls incoming and outgoint network traffic
+браузер						browser
+вероятность					probability
+виртуальная частная сеть			virtual private network (VPN)
+вредоносное ПО					malware
+выгрузка (загрузка на сервер)			upload
+данные						data
+дизайн						design
+диспетчер задач					task manager
+документ					document
+доступ						access
+значение					value
+изображение					image, picture
+иконка						icon
+интернет-провайдер				internet service provider (ISP)
+источник					source
+кодировка					encoding
+	/ e.g. text file encoding, like ANSI, UTF-8, etc.
+кэш						cache
+навигация					navigation
+намерение					intent
+	/ e.g. "Malware is a program that has a malicious intent"
+настройки, опции				settings
+операционная система				operating system
+панель управления				control panel
+папка						folder
+поколение					generation
+поломка, неисправность, сбой			malfunction
+пользователь					user, client
+право, разрешение				permission
+предварительный просмотр			preview
+приложение					application
+проблема					issue
+	/ e.g. "it's a client-side issue"
+разработка					development
+ресурс						resource
+сервер						server
+сетевой трафик					network traffic
+сеть						network, web
+скачивание (загрузка к себе)			download
+таблица						spreadsheet
+указатель мыши, стрелка, курсор			cursor
+файл						file
+экран						screen
+
+
+--- These words are most used when there is a program code to discuss ---
+
+алгоритм					algorithm
+библиотека					library
+	/ a collection of prewritten code that can be used
+	/ e.g. a math library
+ввод						input
+включает, содержит в себе			includes, contains
+	/ example: "to use a library you need to include a library's header file in your source file"
+вывод						output
+вызов, вызвать функцию				function call, to invoke a function
+зависимость					dependence
+заголовок, заголовочный файл			header, header file
+исходный код					source code
+наследование					inheritance
+	/ e.g. "this class inherits another class"
+нейросеть					neural network
+обнаружение					detection
+объект						object
+определение					definition
+отдельный, отличный от				distinct
+ошибка в коде программы				bug (not just an error)
+перебой, прерывание				interruption
+последовательность				sequence
+последующий					subsequent
+распознавание					recognition
+рекурсия					recursion
+	/ a function with a step that invokes said function (again)
+слой						layer
+сложность					complexity
+сложность по времени				time complexity
+	/ it's the amount of time for algorithm to execute
+	/ example: this algorithm has O(n^2) time complexity
+среда, окружение				environment
+структура данных				data structure
+требует						demands, requires
+	/ example: the code above requires a math library
+узел						node
+	/ a basic unit of a data structure (of any network or graph, for example)
+	/ вершина - vertice, vertex, node
+	/ ребро (графа) - edge
+условие						condition, if statement
+цикл						loop
+	/ вечный цикл - infinite loop
