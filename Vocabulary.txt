@@ -25,6 +25,7 @@
 
 --- These words are kind of common in dialogues about IT stuff ---
 
+аппаратное обеспечение				hardware
 брандмауэр (межсетевой экран)			firewall
 	/ a network security system that controls incoming and outgoint network traffic
 браузер						browser
@@ -60,6 +61,7 @@
 приложение					application
 проблема					issue
 	/ e.g. "it's a client-side issue"
+программное обеспечение				software, soft
 разработка					development
 ресурс						resource
 сервер						server
